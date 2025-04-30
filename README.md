@@ -1,4 +1,3 @@
-# diplomski
 
 Model: https://drive.google.com/file/d/1BZuCEvvk5h6T43VGX6JircLjVs3GGYHm/view?usp=sharing <br>
 reconstructed_imagePU_reshaped: [https://drive.google.com/file/d/1gK-aKQi9OQOzxXmo3UaWqbruyOWCGG_S/view?usp=sharing](https://drive.google.com/file/d/1ccQEVj-laNNfS0sLh1cSxUrsGdXpjP8V/view?usp=sharing)<br>
